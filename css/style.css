@@ -47,18 +47,18 @@ p{
 
 
 h1 span{
-  color:#2fa68e;
+  color:#648B36;
 }
 
 
 ::selection {
   background: #fff;
-  color:#2fa68e;
+  color: #648B36;
 }
 
 ::-moz-selection {
   background: #fff;
-  color:#2fa68e;
+  color:#648B36;
 }
 
 
@@ -79,14 +79,14 @@ h1 span{
   position:relative;
   width:100%;
   height:580px;
-  background:url('../img/background/start-page.jpg') 0px 0px fixed;
+  background:url('http://i1328.photobucket.com/albums/w532/timurpinar/ana-sayfa-foto-alt_zpsfhnm05ej.jpg~original') 0px 0px fixed;
 }
 
 .start-page .opacity{
   position:absolute;
   width:100%;
   height:580px;
-  background:rgba(0,0,0,0.7);
+  background:rgba(0,0,0,0.25);
 }
 
 
@@ -184,7 +184,7 @@ h1 span{
   position:relative;
   width:100%;
   height:90px;
-  background:#2f363e;
+  background:#648B36;
   z-index:1000;
   display:none;
 }
@@ -221,7 +221,7 @@ h1 span{
   position:relative;
   width:100%;
   height:90px;
-  background:#2f363e;
+  background:#648B36;
   z-index:1000;
 }
 
@@ -233,7 +233,7 @@ h1 span{
 
 .menu-content .logo {
    color:white;
-   background:#2f363e;
+   background:#648B36;
    font-weight:700;
    font-size:30px;
    width:300px;
@@ -256,7 +256,7 @@ h1 span{
   font-size:29px;
   text-align:center;
   line-height:70px;
-  background:#2fa68e;
+  background:#648B36;
   z-index:1000;
   border-bottom:1px solid #1a7966;
   -webkit-transition: all 0.2s ease-in;
@@ -267,7 +267,7 @@ h1 span{
  }
 
 .menu-click li:hover {
-  color:#2f363e;
+  color:#648B36;
  }
 
 .menu-content ul{
@@ -285,7 +285,7 @@ h1 span{
 }
 
 .menu-content li a{
-  color:#a3b2c0;
+  color:#fff;
   font-size:16px;
   display: block;
   padding: 0 20px 0 20px;
@@ -298,7 +298,7 @@ h1 span{
 }
 
 .menu-content li.active a{
-  background-color:#131a21;
+  background-color:#5da11d;
 }
 
 .menu-content li a:hover{
@@ -394,7 +394,7 @@ h1 span{
 }
 
 .about-us .column-one .circle-one:hover{
-  background: url(../img/icons/responsive.png) #2fa68e no-repeat center center;
+  background: url(../img/icons/responsive.png) #648B36 no-repeat center center;
 
 }
 
@@ -425,7 +425,7 @@ h1 span{
 }
 
 .about-us .column-two .circle-two:hover{
-  background: url(../img/icons/minimalist.png) #2fa68e no-repeat center center;
+  background: url(../img/icons/minimalist.png) #648B36 no-repeat center center;
 }
 
 
@@ -456,7 +456,7 @@ h1 span{
 }
 
 .about-us .column-three .circle-three:hover{ 
-  background: url(../img/icons/free.png) #2fa68e no-repeat center center;
+  background: url(../img/icons/free.png) #648B36 no-repeat center center;
 }
 
 
@@ -467,7 +467,7 @@ h1 span{
 .portfolio{
   position:relative;
   width:100%;
-  background:#23282d;
+  background:#648B36;
 
 }
 
@@ -552,7 +552,7 @@ h1 span{
   position: absolute;
   width: 300px;
   height: 225px;
-  background: #2fa68e;
+  background: #648B36;
   z-index: 2;
   opacity:0;
 }
@@ -698,7 +698,7 @@ input{
 
   width:420px;
   height:40px;
-  background:#23282d;
+  background:#648B36;
   border:0;
   color:white;
   font-weight:bold;
@@ -716,7 +716,7 @@ textarea{
 
   width:420px;
   height:283px;
-  background:#23282d;
+  background:#648B36;
   border:0;
   color:white;
   font-weight:bold;
@@ -734,7 +734,7 @@ textarea{
   height:34px;
   float:right;
   margin:0;
-  background:#23282d;
+  background:#648B36;
   border:0;
   -moz-border-radius:4px;
   -webkit-border-radius:4px;
@@ -756,7 +756,7 @@ textarea{
 
 .contact .content .form .button:hover{
   color:white;
-  background:#2fa68e;
+  background:#648B36;
 }
 
 /* Footer */
@@ -766,7 +766,7 @@ textarea{
   position:relative;
   width:100%;
   height:90px;
-  background:#23282d;
+  background:#648B36;
 
 }
 
@@ -787,7 +787,7 @@ textarea{
 .footer .margin .menu-footer a{
   line-height:90px;
   padding-right:25px;
-  color:#5f666e;
+  color:#fffff
   -webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
 	-ms-transition: all 0.2s ease-in;
@@ -807,6 +807,6 @@ textarea{
   float:left;
   line-height:90px;
   padding-right:25px;
-  color:#5f666e;
+  color:#fffff;
 }
 
