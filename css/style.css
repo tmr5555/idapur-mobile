@@ -792,3 +792,21 @@ textarea{
   color:#fffff;
 }
 
+
+
+/* -----------Smartphone View----------- */ 
+@media only screen and (max-width : 480px)   {
+
+   #sidebar {
+      display: none;
+   }
+   
+   #content {
+      width: 300px;
+   }
+   
+   #header {
+      display: none;
+   }
+
+}
