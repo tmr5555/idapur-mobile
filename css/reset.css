@@ -42,3 +42,21 @@ table {
     border-collapse: collapse; 
     border-spacing: 0; 
 }
+
+
+/* -----------Smartphone View----------- */ 
+@media only screen and (max-width : 480px)   {
+
+   #sidebar {
+      display: none;
+   }
+   
+   #content {
+      width: 300px;
+   }
+   
+   #header {
+      display: none;
+   }
+
+}
