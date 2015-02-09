@@ -135,10 +135,7 @@ h1 span{
   height: 29px;
   background: url(http://i1328.photobucket.com/albums/w532/timurpinar/idapur%20mobile/arrow-down_zps1lbtarsi.png) no-repeat center center;
   display: block;
-  -webkit-animation: bounce-fade 1.2s infinite; /* Safari 4+ */
-  -moz-animation:    bounce-fade 1.2s infinite; /* Fx 5+ */
-  -o-animation:      bounce-fade 1.2s infinite; /* Opera 12+ */
-   animation:        bounce-fade 1.2s infinite; /* IE 10+ */
+  
 }
 
 
